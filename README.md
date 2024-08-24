@@ -34,7 +34,4 @@ Run the Streamlit app to start analyzing your data.
 **Upload Data:**
 Upload CSV files exported from IoT devices to the web app to get irrigation recommendations.
 
-Acknowledgments
-Special thanks to Dr. Bisheban for her guidance and support.
-This project was made possible through the WISE UCalgary program and funded by the Schulich School of Engineering.
 Feel free to explore the code and documentation, and let me know if you have any questions or need further assistance!
