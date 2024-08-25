@@ -9,7 +9,6 @@ The project includes:
 - Code for interfacing with sensors (DHT11, photoresistor, etc.).
 - A Python-based web application that allows users to upload CSV files of sensor data and receive irrigation recommendations.
 
-- 
 
 ## Project Structure
 ```
@@ -22,5 +21,4 @@ The project includes:
 
 ## Future Improvements
 - Integration with machine learning models for more precise predictions.
-- Automated alert systems for irrigation recommendations.
-- Expanding support for additional sensors and data inputs.
+- Aiming for the skies!
