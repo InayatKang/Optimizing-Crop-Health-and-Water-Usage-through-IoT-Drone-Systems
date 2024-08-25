@@ -6,9 +6,9 @@
 
 /* Fill-in information from Blynk Device Info here */
 
-#define BLYNK_TEMPLATE_ID "TMPL2SNhGnC8k"
-#define BLYNK_TEMPLATE_NAME "IOT Wifi Lights"
-#define BLYNK_AUTH_TOKEN "y4LXaazg_znYVPCwHRY19HZWTkZ66X2J"
+#define BLYNK_TEMPLATE_ID "#####" //Replace with your own
+#define BLYNK_TEMPLATE_NAME "####"//Replace with your own
+#define BLYNK_AUTH_TOKEN "#####"//Replace with your own
 
 /* Comment this out to disable prints and save space */
 #define BLYNK_PRINT Serial
@@ -19,8 +19,8 @@
 #include <SoftwareSerial.h>
 
 // Your WiFi credentials
-const char ssid[] = "Kingbob"; // replace with your wifi ssid
-const char pass[] = "lilscooty"; // replace with your password
+const char ssid[] = "##"; // replace with your wifi ssid
+const char pass[] = "##"; // replace with your password
 
 // Your ESP8266 baud rate
 #define ESP8266_BAUD 9600
