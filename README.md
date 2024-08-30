@@ -13,13 +13,13 @@ The project includes:
 ![Screenshot 2024-07-29 151403](https://github.com/user-attachments/assets/d766c7e7-0a7d-4ee2-a42e-2488e46d5646)
 
 ## Project Structure
-```
+
 - Arduino: Contains Arduino and ESP8266 code for the sensors
 - Smart Irrigation App: Contains the Streamlit web application files
 - Data_samples: Sample CSV files for testing
 - README.md: Project documentation (this file)
 - Bicopter 3D Model: All the files you need to 3D print your own housing.
-```
+
 
 ## Future Improvements
 - Integration with machine learning models for more precise predictions.
