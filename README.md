@@ -9,6 +9,14 @@ The project includes:
 - Code for interfacing with sensors (DHT11, photoresistor, etc.).
 - A Python-based web application that allows users to upload CSV files of sensor data and receive irrigation recommendations.
 
+![Screenshot 2024-07-28 214943](https://github.com/user-attachments/assets/bfc61d07-a126-46d2-a39d-3b524a5a6bff)
+![Screenshot 2024-07-29 151403](https://github.com/user-attachments/assets/d766c7e7-0a7d-4ee2-a42e-2488e46d5646)
+![Screenshot 2024-08-05 201928](https://github.com/user-attachments/assets/79f302d6-fc52-4212-b7c9-928053979a72)
+
+![Screenshot 2024-08-05 201928](https://github.com/user-attachments/assets/108271e5-44ad-45ee-bc60-a948433af08d)
+![Screenshot 2024-07-28 214943](https://github.com/user-attachments/assets/d0cec394-e2e7-4ac3-a9ba-65179917eb5b)
+![Screenshot 2024-07-29 151403](https://github.com/user-attachments/assets/76a16400-9cf8-4cd8-b92b-06389bb27a90)
+
 
 ## Project Structure
 ```
