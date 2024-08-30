@@ -14,11 +14,11 @@ The project includes:
 
 ## Project Structure
 ```
-- /Arduino/                 # Contains Arduino and ESP8266 code for the sensors
-- /Smart Irrigation App /              # Contains the Streamlit web application files
-- /data_samples/         # Sample CSV files for testing
-- README.md              # Project documentation (this file)
-- /Bicopter 3D Model/ # All the files you need to 3D print your own housing.
+- Arduino: Contains Arduino and ESP8266 code for the sensors
+- Smart Irrigation App: Contains the Streamlit web application files
+- Data_samples: Sample CSV files for testing
+- README.md: Project documentation (this file)
+- Bicopter 3D Model: All the files you need to 3D print your own housing.
 ```
 
 ## Future Improvements
